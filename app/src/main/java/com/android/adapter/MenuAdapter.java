@@ -18,6 +18,7 @@ public class MenuAdapter extends ArrayAdapter<WebAddress> {
 	Context context;
     int layoutResourceId;   
      ArrayList<WebAddress> data=new ArrayList<WebAddress>();
+
     public MenuAdapter(Context context, int layoutResourceId, ArrayList<WebAddress> data) {
         super(context, layoutResourceId, data);
         this.layoutResourceId = layoutResourceId;
@@ -52,7 +53,6 @@ public class MenuAdapter extends ArrayAdapter<WebAddress> {
    
     static class RegardingTypeHolder
     {
-        
         TextView textName;
     }
 }

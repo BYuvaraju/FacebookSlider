@@ -12,6 +12,7 @@ public class Config {
 	static ArrayList<WebAddress> address = null;
 
 	public static ArrayList<WebAddress> createAddress() {
+
 		address = new ArrayList<WebAddress>();
 		address.add(new WebAddress("Google","http://www.google.com"));
 		address.add(new WebAddress("Yahoo","http://www.yahoo.co.in"));
