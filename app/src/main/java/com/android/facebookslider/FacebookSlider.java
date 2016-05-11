@@ -88,7 +88,7 @@ public class FacebookSlider extends Activity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Context context = view.getContext();
                 isWebHistory = true;
-                webView.setVisibility(0);
+                webView.setVisibility(View.INVISIBLE);
                 webView.getSettings().setJavaScriptEnabled(true);
                 menuOut = true;
                 scrollWebviw(scrollView, menu);
@@ -97,7 +97,9 @@ public class FacebookSlider extends Activity {
         		webView.setWebViewClient(new MyWebViewClient());
         		menuOut = false;
         	    stack.push(address.get(position).getName());
+
         	    Log.d("The contents of Stack is" , stack.toString());
+
         		openURL(address.get(position).getUrl());
         		webView.requestFocus(View.FOCUS_DOWN);
     		    webView.setOnTouchListener(new View.OnTouchListener() {
