@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/anim/push_left_in_80.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/anim/push_left_in_80.xml"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/anim/push_left_out.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/anim/push_left_out.xml"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/anim/push_right_out.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/anim/push_right_out.xml"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/anim/push_right_in.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/anim/push_right_in.xml"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/anim/push_left_in.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/anim/push_left_in.xml"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/anim/push_right_out_80.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/anim/push_right_out_80.xml"
+    }
+]

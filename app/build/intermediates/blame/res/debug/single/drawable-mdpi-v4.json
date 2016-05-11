@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/blue_gradient_header.png",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/drawable-mdpi/blue_gradient_header.png"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu.png",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/drawable-mdpi/menu.png"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/blue_bg_rect.png",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/drawable-mdpi/blue_bg_rect.png"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

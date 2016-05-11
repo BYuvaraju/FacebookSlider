@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/layout/link.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/layout/link.xml"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/layout/screen_facebook_slider.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/layout/screen_facebook_slider.xml"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/layout/horz_scroll_menu.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/layout/horz_scroll_menu.xml"
+    },
+    {
+        "merged": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/build/intermediates/res/merged/debug/layout/screen_scroll_with_list_menu.xml",
+        "source": "/Users/Yuvaraju/Desktop/Glide examples/FacebookSlider/app/src/main/res/layout/screen_scroll_with_list_menu.xml"
+    }
+]
